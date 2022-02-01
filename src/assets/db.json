@@ -1,0 +1,143 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "name": "Продажа1",
+      "colorId": 5
+    },
+    {
+      "id": 3,
+      "name": "Фильмы и сериалы",
+      "colorId": 3
+    },
+    {
+      "id": 4,
+      "name": "fdffd",
+      "colorId": 2
+    },
+    {
+      "id": 5,
+      "name": "Личное",
+      "colorId": 1
+    },
+    {
+      "name": "huy",
+      "colorId": 3,
+      "id": 6
+    },
+    {
+      "name": "def",
+      "colorId": 4,
+      "id": 7
+    },
+    {
+      "name": "gey",
+      "colorId": 8,
+      "id": 8
+    }
+  ],
+  "tasks": [
+    {
+      "listId": 1,
+      "text": "dede",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "listId": 1,
+      "text": "qweqwe",
+      "completed": true,
+      "id": 8
+    },
+    {
+      "listId": 1,
+      "text": "123def",
+      "completed": false,
+      "id": 9
+    },
+    {
+      "listId": 1,
+      "text": "testfe",
+      "completed": true,
+      "id": 18
+    },
+    {
+      "listId": 1,
+      "text": "feed",
+      "completed": false,
+      "id": 19
+    },
+    {
+      "listId": 5,
+      "text": "fefe",
+      "completed": true,
+      "id": 21
+    },
+    {
+      "listId": 1,
+      "text": "fgd",
+      "completed": true,
+      "id": 24
+    },
+    {
+      "listId": 3,
+      "text": "dsad",
+      "completed": true,
+      "id": 25
+    },
+    {
+      "listId": 4,
+      "text": "dsd",
+      "completed": false,
+      "id": 26
+    },
+    {
+      "listId": 4,
+      "text": "fdffd322",
+      "completed": false,
+      "id": 27
+    }
+  ],
+  "colors": [
+    {
+      "id": 2,
+      "hex": "#42B883",
+      "name": "green"
+    },
+    {
+      "id": 1,
+      "hex": "#C9D1D3",
+      "name": "grey"
+    },
+    {
+      "id": 3,
+      "hex": "#64C4ED",
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "hex": "#FFBBCC",
+      "name": "pink"
+    },
+    {
+      "id": 5,
+      "hex": "#B6E6BD",
+      "name": "lime"
+    },
+    {
+      "id": 6,
+      "hex": "#C355F5",
+      "name": "purple"
+    },
+    {
+      "id": 7,
+      "hex": "#110133",
+      "name": "black"
+    },
+    {
+      "id": 8,
+      "hex": "#FF6464",
+      "name": "red"
+    }
+  ]
+}
